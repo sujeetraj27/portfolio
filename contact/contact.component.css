@@ -1,0 +1,74 @@
+section{
+    display: block;
+    background-color: darkslategrey;
+    height: 400px;
+    margin-top: 60px;
+}
+H1{
+    color: white;
+    font-size: xx-large;
+    font-style: italic;
+    text-align: center;
+    background-color: khaki;
+}
+.add img{
+    border-radius: 50%;
+    width: 50px;
+    margin-left: 220px;
+    margin-top: -16px;
+
+}
+img{
+    border-radius: 50%;
+    width: 50px;
+}
+address{
+    margin-left: 280px;
+    margin-top: -42px;
+    font-size: x-large;
+    color: white;
+
+}
+.tele img{
+    width: 50px;
+    margin-left: 220px;
+    margin-top: 40px;
+}
+
+.mobile{
+    margin-left: 280px;
+    margin-top: -35px;
+    font-size: larger;
+    color: white;
+}
+.email{
+    width: 50px;
+    margin-left: 220px;
+    margin-top: 40px;
+}
+p{
+    margin-top: -35px;
+    margin-left: 60px;
+    font-size: larger;
+    font-style: oblique;
+
+}
+.link{
+    margin-left: 325px;
+    margin-top: 35px;
+
+}
+.face{
+    margin-left: 400px;
+    margin-top: -54px;
+
+}
+.twit{
+    margin-left: 470px;
+    margin-top: -55px;
+}
+.nauk{
+    margin-left: 535px;
+    margin-top: -55px;
+}
+
